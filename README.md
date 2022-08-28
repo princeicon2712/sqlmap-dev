@@ -1,4 +1,10 @@
-# sqlmap-dev hacking now:
+
+## Installation:
+
+
+
+
+# sqlmap-dev hacking use now:
 
 ``` python sqlmap.py -u http://testphp.vulnweb.com/artists.php\?artist\=1 --dbs ```
 
